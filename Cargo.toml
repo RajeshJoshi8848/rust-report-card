@@ -1,0 +1,8 @@
+[package]
+name = "rust-report-card"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+printpdf = "0.6.0"
+
